@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="es.cogercita.proyecto" version="1.0.3" android-versionCode="1.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>cogercita.es Demo3</name>
+<widget id="es.cogercita.pastora" version="1.0.4" android-versionCode="4" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>Pastora Miguel</name>
     <description>
-        Programa de reserva de cita previa
+        Programa de citas médicas en clínica Pastora Miguel
     </description>
     <author email="info@cogercita.es" href="https://cogercita.es">
         CogerCita
@@ -88,8 +88,6 @@
         <splash height="1920" platform="windows" src="www/res/screen/windows/SplashScreenPhone.scale-240.png" width="1152" />
     </platform>
     <access origin="*" />
-    <access origin="whatsapp:*" launch-external="yes" />
-    <allow-navigation href="*" />
     <allow-intent href="http://*/*" />
     <allow-intent href="https://*/*" />
     <platform name="android">
